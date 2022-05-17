@@ -7,7 +7,6 @@ import styles from './ControlPane.module.css';
 
 const ControlPane = ({
   title,
-  type,
   options,
   currentOption,
   handleSelectOption,
