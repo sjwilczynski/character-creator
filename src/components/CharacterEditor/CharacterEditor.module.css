@@ -9,7 +9,7 @@
 
 .header {
   padding-bottom: 64px;
-  max-width: 65%;
+  width: 65%;
 }
 
 .title {
@@ -34,7 +34,7 @@
 }
 
 .controlColumn {
-  max-width: 50%;
+  width: 50%;
 }
 
 .backgroundBar {
